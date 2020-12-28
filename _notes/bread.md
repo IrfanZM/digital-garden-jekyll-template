@@ -4,7 +4,7 @@ title: Bread
 
 The starting point for my bread.
 
-1. The regular, [[regular-bread|tried and tested recipes]]
+1. [[The regular bread recipes]]
 2. Experimental recipes in the works
 3. Recipes I want to try, but haven't yet
 
