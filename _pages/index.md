@@ -11,6 +11,19 @@ permalink: /
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
 
+Here's a list of current topics:
+
+- [[bread]]
+
+And here are the topics I need to add:
+
+- photography
+- ethical living
+- arabic language
+- modelling and analysis
+- nooks
+- baking
+
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
 This is my [[bread]] note.
