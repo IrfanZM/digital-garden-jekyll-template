@@ -2,15 +2,15 @@
 title: Bread
 ---
 
-The starting point for my bread.
+The starting point for my all bread exploration.
 
-1. [[The regular bread recipes]]
-2. Experimental recipes in the works
-3. Recipes I want to try, but haven't yet
+1. [[The regular bread recipes]], tried and tested
+2. Experimental bread recipes, in the works and still need tweaking/practice
+3. Untried bread recipes, that I want to try but haven't yet
+4. Bread theory, the science behind the bread
 
-Goals:
+My goal at the moment is to have the following nailed down:
 
-I think I'm aiming for the following to have nailed down:
 - Standard, quick white bread and wholemeal bread
 - White sourdough
 - Rye sourdough

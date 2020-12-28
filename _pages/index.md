@@ -14,10 +14,10 @@ permalink: /
 Here's a list of current topics:
 
 - [[bread]]
+- [[photography]]
 
 And here are the topics I need to add:
 
-- photography
 - ethical living
 - arabic language
 - modelling and analysis
