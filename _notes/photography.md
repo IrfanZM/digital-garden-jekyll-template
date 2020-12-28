@@ -8,4 +8,4 @@ Links to more content:
 - [[Photo galleries]]
 - Photography theory
 - Artists I like
-  - [Willem Verbeeck](https://wikipedia.org/)
+  - [Willem Verbeeck](https://www.willemverbeeck.com/)
