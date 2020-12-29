@@ -22,8 +22,6 @@ And here are the topics I need to add:
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
-This is my [[bread]] note.
-
 <style>
   .wrapper {
     max-width: 46em;
