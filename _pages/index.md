@@ -11,13 +11,11 @@ Here's a list of my current topics:
 
 - [[bread]]
 - [[photography]]
-- [[arabic-language]]
-- [[arabic-language|arabic language]]
+- [[Arabic language|arabic language]]
 
 And here are the topics I need to add:
 
 - ethical living
-- arabic language
 - modelling and analysis
 - nooks
 - baking
