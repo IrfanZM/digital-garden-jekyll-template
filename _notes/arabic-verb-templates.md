@@ -2,6 +2,8 @@
 title: Arabic verb templates
 ---
 
+A short overview of the different verb templates covered in my arabic classes (excluding verb templates 11 and above, as they're not so common).
+
 ## Table of contents
 1. [Summary table](#summary_table){: .internal-link}
 2. [Template 1](#template_1){: .internal-link}
@@ -19,8 +21,8 @@ title: Arabic verb templates
 
 | Template | مصدر           | Past, present  (active)    | Past, present (passive)     |
 |----------|----------------:|----------------------------:|-----------------------------:|
-| 1        | *             |  *                          | جُعِلَ , يُجْعَلُ           |
-| 2        | باب تَفْعِيل| نَزَّلَ ,  يُنَزِّلُ| نُزِّلَ ,  يُنَزَّلُ|
+| 1        | باب فَعْلٌ             |  *                          | جُعِلَ , يُجْعَلُ   |
+| 2        | باب تَفْعِيل| نَزَّلَ ,  يُنَزِّلُ| نُزِّلَ ,  يُنَزَّلُ
 | 3        | باب مُفاعلة    | قارَبَ ,  يُقارِبُ | قُورِبَ , يُقَارَبُ         |
 | 4        | باب إفْعال     | أكْرَمَ , يُكْرِمُ         | أُكْرِمَ , يُكْرَمُ         |
 | 5        | باب تَفَعُّل   | تَنَزَّلَ , يَتّنَزَّلُ    | تُنُزِّلَ , يُتَنَزَّلُ     |
@@ -60,7 +62,7 @@ Common verbs in Template 1:
 
 ## Template 2 <a name="template_2"></a>
 
-Moving from template 1 to 2, changes the meaning from intransitive to transitive (include the arabic for these terms when you get the chance). For example, نَزَلَ (he revealed), to نَزَّلَ (he sent it down), where an *object* is now needed.
+Template 2 has a shaddah on the ع kalimah. Moving from template 1 to 2, changes the meaning from intransitive to transitive (include the arabic for these terms when you get the chance). For example, نَزَلَ (he revealed), to نَزَّلَ (he sent it down), where an *object* is now needed.
 
 Common verbs in template 2:
 
@@ -73,12 +75,24 @@ Common verbs in template 2:
 
 ## Template 3 <a name="template_3"></a>
 
-Template 3 often involves a meaning change from template 1, where there is an exchange between two or more people. For example, قَرُبَ (he was near), to قَارَبَ (he came close, he was near).
+The extra letter here is an ا after the ف kalimah. Template 3 often involves a meaning change from template 1, where there is an exchange between two or more people. For example, قَرُبَ (he was near), to قَارَبَ (he came close, he came near).
 
 Common verbs in template 3:
- -
+ - قَارَبَ - he came close
+ - آخَذَ - he blamed/reproached
+ - تَابَعَ - he followed (each other)
+ - غَافَرَ - he forgave (mutually)
+ - نَادى - he summoned
 
 ## Template 4 <a name="template_4"></a>
+
+Template 4 is one of the most common templates found in the Qur'an. It's also very distinct as the only verb template with a همزةالقطع, as opposed to a همزة الوصل. This involves a 'stop' on pronouncing the hamza at the start, which is not skipped in joining.
+
+Common verbs in template 4:
+- a'taa
+
+
+This template contains command verbs, but not always.
 
 ## Template 5 <a name="template_5"></a>
 
