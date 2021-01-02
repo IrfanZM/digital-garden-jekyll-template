@@ -17,7 +17,7 @@ And here are the topics I need to add:
 
 - ethical living
 - modelling and analysis
-- nooks
+- books
 - baking
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).

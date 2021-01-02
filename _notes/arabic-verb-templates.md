@@ -2,7 +2,7 @@
 title: Arabic verb templates
 ---
 
-A short overview of the different verb templates covered in my arabic classes (excluding verb templates 11 and above, as they're not so common).
+A short overview of the different verb templates covered in my arabic classes (excluding verb templates 11 and above, as they're not so common).  Aside from the below, [this](https://corpus.quran.com/documentation/verbforms.jsp) looks like a good summary of the different verb forms, and covers more possible meaning patterns than are in my notes below.
 
 ## Table of contents
 1. [Summary table](#summary_table){: .internal-link}

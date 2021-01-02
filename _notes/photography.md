@@ -9,3 +9,4 @@ Links to more content:
 - Photography theory
 - Artists I like
   - [Willem Verbeeck](https://www.willemverbeeck.com/)
+  - [Peter Sanders](https://petersanders.com/)
