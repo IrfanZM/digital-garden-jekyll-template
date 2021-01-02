@@ -7,15 +7,17 @@ A short overview of the different verb templates covered in my arabic classes (e
 ## Table of contents
 1. [Summary table](#summary_table){: .internal-link}
 2. [Template 1](#template_1){: .internal-link}
-2. [Template 2](#template_2){: .internal-link}
-2. [Template 3](#template_3){: .internal-link}
-2. [Template 4](#template_4){: .internal-link}
-2. [Template 5](#template_5){: .internal-link}
-2. [Template 6](#template_6){: .internal-link}
-2. [Template 7](#template_7){: .internal-link}
-2. [Template 8](#template_8){: .internal-link}
-2. [Template 9](#template_9){: .internal-link}
-2. [Template 10](#template_10){: .internal-link}
+3. [Template 2](#template_2){: .internal-link}
+4. [Template 3](#template_3){: .internal-link}
+5. [Template 4](#template_4){: .internal-link}
+6. [Template 5](#template_5){: .internal-link}
+7. [Template 6](#template_6){: .internal-link}
+8. [Template 7](#template_7){: .internal-link}
+9. [Template 8](#template_8){: .internal-link}
+10. [Template 9](#template_9){: .internal-link}
+11. [Template 10](#template_10){: .internal-link}
+12. [Verb conjugation rules](#verb_conjugation_rules){: .internal-link}
+
 
 ## Summary table <a name="summary_table"></a>
 
@@ -38,7 +40,7 @@ Template 1 can be found in 6 forms:
 
 | Form | Past, present  (active)  | Notes |
 |----------|----------------------------:|
-| I | خَعَلَ , يَجْعَلُ | Throat letters on the ع or ل kalimah *always* take this form |
+| I | خَعَلَ , يَجْعَلُ | Throat letters on the ع kalimah *always* take this form |
 | II | نَزَلَ , يَنْزِلُ |  |
 | III | كَفَرَ , يَكْفُرُ |  |
 | IV  | سَمِعَ , يَسْمَعُ |  |
@@ -59,6 +61,22 @@ Common verbs in Template 1:
 - خَلَقَ (u), he created
 - خَرَجَ (u), he exited
 - عَمِلَ (a), he did, worked, acted
+
+There are also a number common template 1 verbs, which contain 'weak' letters (و ء ي). These letters can change the standard conjugations of the verbs. Common verbs with 'weak' letters are below:
+
+- اَخَذَ - he took
+- سَأَلَ - he asked
+- وَجَدَ - he found
+- قَالَ - he said
+- جَاءَ - he arrived/he came (a great thing)
+- دَعَا - he called
+- هَدَا - he guided
+- وَقَى - he saved
+- اَتَى - he arrived/came (a small thing)
+- كَانَ - he was
+- وَلِيَ - he was near, he was close, he was in charge
+
+These rules for conjugating verbs with weak letters apply to *all* templates, not just template 1. These rules are described [below](#verb_conjugation_rules){: .internal-link} - but it is important to remember that these are 'post-justified' rules, in that they have been created to best *explain* the irregular conjugations as found in the arabic language. They are *not* the rules that these irregular verb forms are conjugated in accordance to, and therefore may not always work.
 
 ## Template 2 <a name="template_2"></a>
 
@@ -89,19 +107,61 @@ Common verbs in template 3:
 Template 4 is one of the most common templates found in the Qur'an. It's also very distinct as the only verb template with a همزةالقطع, as opposed to a همزة الوصل. This involves a 'stop' on pronouncing the hamza at the start, which is not skipped in joining.
 
 Common verbs in template 4:
-- a'taa
+- أَكْرَمَ - he ennobled
+- اَجْرَجَ - he removed/evicted
+- اَنْزَلَ - he revealed
+- أَرْسَلَ - he transmitted
+- آمَنَ - he believed
+- أَدَلَّ - he was conceited
+- أَؤْجَدَ - he obtained/produced/evoked
+- أرَادَ - he wanted/intended
+- أَقَامَ - he established
+- أَعْطى - he provided
+- أَضَلَّ - he misled
 
-
-This template contains command verbs, but not always.
+This template contains command verbs, but not always. It is also a template that contains a range of meaning patterns, whether they be transitive, intransitive, causative, stative, etc.
 
 ## Template 5 <a name="template_5"></a>
 
+This template, along with template 6, is known as the template of fathas, due to the vowelling of the active past, and both present forms. The extra letters are the ت before the ف kalimah, and the shaddah on the ع kalimah. This template is reflexive of template 2 (which is the intransitive version of template 1). Thus عَلَّمَ (he taught) becomes تَعَلَّمَ (he learned), i.e. to teach yourself.
+
+Common verbs on template 2:
+- تَعَلَّمَ - he learned
+- تَوَلَّى - he took charge
+- تَقَرَّبَ - he came close/approached
+
 ## Template 6 <a name="template_6"></a>
+
+Along with template 5, this is another باب of fathas. The extra letters here are a ت before the ف kalimah, and an ا after the ع kalimah.
+
+The meaning pattern implies a mutual application of action, and is reflexive of template 3.
+
+Common verbs in template 6:
+- تَقَارَبَ - he approached each other
 
 ## Template 7 <a name="template_7"></a>
 
+This is a passive verb form, like the 6th form of template 1. The extra letters at the إِنْ before the ف kalimah.
+
+Common verbs in template 7:
+- إِنْفَطَرَ - he broke into tears
+
 ## Template 8 <a name="template_8"></a>
+
+The meaning pattern of this template is normally reflexive of template 1. For example, وَقَى (he saved) to إِتَّقََى (he was aware, he was on guard, protect one's self). The extra letters here are the إِ before the ف kalimah and the ت after the ف kalimah.
 
 ## Template 9 <a name="template_9"></a>
 
+This template is typically only used for colours and physical disabilities. The extra letters are the إِ before the ف kalimah and the shaddah on the ل kalimah.
+
+Example verbs:
+- اِحْمَرَّ - he turned red
+
 ## Template 10 <a name="template_10"></a>
+
+This template is known for its است before the ف kalimah (which means to seek). It is reflexive of template 1 or 4, seeking the action of quality of the verb it is reflexive upon. Note that the passive form is not really used, like in many other cases, where the passive construction is theoretical but not practically used.
+
+Example verbs:
+- إِسْتَغْفَرَ - he sought forgiveness
+
+## Verb conjugation rules <a name="verb_conjugation_rules"></a>
