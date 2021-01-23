@@ -40,4 +40,5 @@ This assumes that I'm making the recipe in a stand mixer with a dough hook.
 
 ### Other notes
 
-- This bread uses a 65% hydration ratio. I've found this works well for a decent crumb texture without a dough that is too difficult to handle.
+- This bread uses a 65% hydration ratio. I've found this works well for a decent crumb texture without a dough that is too difficult to handle. Depending on how it's looking after kneading in the mixer, I sometimes push it up to a 70% ratio (by adding another 25ml of water).
+- Interestingly, I think the achievable hydration ratio is very affected by the hardness of the tap water. Since moving out of London, I think it has been far easier to make high hydration bread.

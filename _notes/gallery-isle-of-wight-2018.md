@@ -6,18 +6,17 @@ This was a small trip me and my family took in 2018 after Eid to the Isle of Wig
 
 Anyways, there were some nice photos that I got from Godshill Model Village below, and was really great weather. Film stock was Fuji Superia X-TRA400. I found that the film really shines in bright sunlight.
 
-<img style="float: left; padding: 15px 5px 10px 20px;" src="/assets/galleries/isle_of_wight_2018/img1.jpg"/>
 
-<img style="float: left; padding: 15px 5px 10px 20px;" src="/assets/galleries/isle_of_wight_2018/img2.jpg"/>
+<img style="padding: 15px 5px 10px 20px;" src="/assets/galleries/isle_of_wight_2018/img2.jpg"/>
 
-<img style="float: left; padding: 15px 5px 10px 20px;" src="/assets/galleries/isle_of_wight_2018/img3.jpg"/>
+<img style="padding: 15px 5px 10px 20px;" src="/assets/galleries/isle_of_wight_2018/img3.jpg"/>
 
-<img style="float: left; padding: 15px 5px 10px 20px;" src="/assets/galleries/isle_of_wight_2018/img4.jpg"/>
+<img style="padding: 15px 5px 10px 20px;" src="/assets/galleries/isle_of_wight_2018/img4.jpg"/>
 
-<img style="float: left; padding: 15px 5px 10px 20px;" src="/assets/galleries/isle_of_wight_2018/img5.jpg"/>
+<img style="padding: 15px 5px 10px 20px;" src="/assets/galleries/isle_of_wight_2018/img5.jpg"/>
 
 On the same film stock, a couple of pictures from baking, from my early days when I was starting to experiment with bread.
 
-<img style="float: left; padding: 15px 5px 10px 20px;" src="/assets/galleries/isle_of_wight_2018/img6.jpg"/>
+<img style="padding: 15px 5px 10px 20px;" src="/assets/galleries/isle_of_wight_2018/img6.jpg"/>
 
-<img style="float: left; padding: 15px 5px 10px 20px;" src="/assets/galleries/isle_of_wight_2018/img7.jpg"/>
+<img style="padding: 15px 5px 10px 20px;" src="/assets/galleries/isle_of_wight_2018/img7.jpg"/>
