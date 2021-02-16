@@ -76,7 +76,7 @@ There are also a number common template 1 verbs, which contain 'weak' letters (�
 - كَانَ - he was
 - وَلِيَ - he was near, he was close, he was in charge
 
-These rules for conjugating verbs with weak letters apply to *all* templates, not just template 1. These rules are described [below](#verb_conjugation_rules){: .internal-link} - but it is important to remember that these are 'post-justified' rules, in that they have been created to best *explain* the irregular conjugations as found in the arabic language. They are *not* the rules that these irregular verb forms are conjugated in accordance to, and therefore may not always work.
+These rules for conjugating verbs with weak letters apply to *all* templates, not just template 1. 
 
 ## Template 2 <a name="template_2"></a>
 

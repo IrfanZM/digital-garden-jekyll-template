@@ -1,5 +1,5 @@
 ---
-title: Range: Why Generalists Triumph in a Specialized World
+title: Range, Why Generalists Triumph in a Specialized World
 ---
 
 Some thoughts and lessons from the book [Range: Why Generalists Triumph in a Specialized World](https://www.goodreads.com/book/show/41795733-range), which I read in January 2021. The writing style was very engaging - you can see clearly where Epstein's sports writing experience has come in here, and was highly enjoyable to read. Each chapter laid out a strong, clear concept, backed up by either research, anecdotes, biographies, or similar.

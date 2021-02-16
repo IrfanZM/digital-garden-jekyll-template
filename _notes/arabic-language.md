@@ -6,6 +6,7 @@ My starting point for arabic language learning and notes:
 
 - [[Arabic verb templates]]
 - [[Arabic grammar, year 1]]
+- [[Arabic verb conjugation]]
 
 Useful resource:
 - [Arabic Almanac, including Hans Wehr](https://ejtaal.net/aa/readme.html)
