@@ -83,4 +83,4 @@ This covers the main grammatical concepts covered in year 1 of my studies.
  فِ مكةَ - In Makkah
 
 
-## Plurals <a name="plural"></a>
+## Plurals <a name="plurals"></a>
