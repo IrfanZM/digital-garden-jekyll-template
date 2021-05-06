@@ -16,7 +16,7 @@ These rules describe 'post-justified' rules, in that they have been created to b
 Whenever you see a vowelled weak letter, preceded by a fathah, you turn the weak letter into an alif.
 
 قَوَلَ - قَالَ\
-هَدَيَ - هَدَا\
+هَدَيَ - هَدَا
 
 There is a part 2 of this rule, which applies only in the present tense (and not all the time). When there is a vowelled و or ي preceded by a kasrah or a dhamma, make it sakin.
 
@@ -72,6 +72,14 @@ This is for verb template 8 only, and can be called the super ت. If the ف kali
 وَقَى - إِوْتَقَى - إِتْتَقَى - إِتَّقَى
 
 Or if there are already two ت, merge them.
+
+There's a second part of this rule, where if a ت is preceded by a د or ذ, then turn it into a the corresponding letter:
+
+إِذْتَكَرَ - إِذْذَكَرَ - إِذَّكَرَ
+
+Similarly, if the ت is preceded by one of ط ظ ص ض then turn it into the corresponding letter:
+
+إِطْتَلَبَ - إِطْطَلَبَ - إِطَّلَبَ
 
 ### Rule 9
 
