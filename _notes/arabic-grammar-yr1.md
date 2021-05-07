@@ -2,7 +2,7 @@
 title: Arabic grammar, year 1
 ---
 
-This covers the main grammatical concepts covered in year 1 of my studies.
+This is a summary of the basic grammatical concepts covered in year 1 of my studies. The curriculum loosely followed Haywood and Nahmad's structure, for the first 11 or so chapters.
 
 ## Table of contents
 1. [Definite and indefinite](#definite){: .internal-link}
@@ -72,7 +72,7 @@ This covers the main grammatical concepts covered in year 1 of my studies.
 كتابُ الطالبِ الجديدِ - The new student's book.\
 كتابُ الطالبِ الجديدُ - The student's new book.
 
-- Despite not having a tanwin on it, the 'book' above is definite, as it is known.
+- Despite not having a alif lam on it, the 'book' above is definite, as it is known.
 - For indefinite words, you would use -ٍ
 
  كتابُ طالبٍ - A student's book.
@@ -82,5 +82,6 @@ This covers the main grammatical concepts covered in year 1 of my studies.
 
  فِ مكةَ - In Makkah
 
-
 ## Plurals <a name="plurals"></a>
+
+- This is a slightly more complicated subject, so there's a separate page on it.
