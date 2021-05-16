@@ -11,6 +11,8 @@ This is a summary of the basic grammatical concepts covered in year 1 of my stud
 4. [Case endings](#case_endings){: .internal-link}
 5. [Possession](#possession){: .internal-link}
 6. [Plurals](#plurals){: .internal-link}
+7. [Verb sentences](#verb_sentences){: .internal-link}
+8. [Attached pronouns](#attached_pronouns){: .internal-link}
 
 ## Definite and indefinite <a name="definite"></a>
 
@@ -84,4 +86,44 @@ This is a summary of the basic grammatical concepts covered in year 1 of my stud
 
 ## Plurals <a name="plurals"></a>
 
-- This is a slightly more complicated subject, so there's a separate page on it.
+- Arabic plurals can take masculine or feminine, dual or plural (3+) form, and can either be broken or sound plurals.
+- Sound plurals are typically used for adjectives, and differ between the masculine and the feminine. Their form is as follows:
+
+|        |           | Masculine | Feminine |
+|--------|-----------|-----------|----------|
+| Single |           | مُسْلِمٌ      | مُسْلِمَةٌ    |
+| Dual   | R-state   | مسلمانِ    | مُسْلِمتانِ  |
+|        | N/J-state | مسلمَيْنِ    | مسلمتَيْنِ  |
+| Plural | R-state   | مسلمُونَ    | مسلماتٌ   |
+|        | N/J-state | مسلمِيْنَ    | مسلماتٍ   |
+
+- However, most nouns will take a broken plural form, and some adjectives too.
+- These broken plurals can appear in several different 'scales', however in practice it is probably easier just to memorise plurals along with their singular forms.
+- Broken plurals can be taken as feminine singular for the purposes of agreement. Therefore singular feminine adjectives and verbs can be used with broken masculine plurals.
+ - The exception to this is when describing male human beings, where you would use broken masculine plurals as usual (unless there's a sound plural alternative).
+
+## Verb sentences <a name="verb_sentences"></a>
+
+- These follow the V-S-O format, for verb, subject, object.
+- The subject will be in r-state, and the object is in the n-state.
+- Sometimes the order differs, and the object may precede the verb, or the subject may precede the object.
+- When you have explicitly specified the subject in the sentence (i.e. not used an attached pronoun), there is no need to agree the number with the subject, but you do have to agree the gender.
+
+## Attached pronouns <a name="attached_pronouns">
+
+- ضَمِير - pronoun
+- ضَمائِر - pronouns
+
+- Pronouns can attach to three things:
+  1. اسم
+  2. فاعل
+  3. حرف
+
+- When attaching to an اسم, the relationship is of اضافة, e.g. كتبُكَ فالمدرسةِ (your book is in the madrasah). Pronouns are generally not declinable (i.e. مبني), except when for third-person pronouns preceded by a ي or a kasrah:
+  - كتابِهِ
+  - كتابِهِما
+  - كتابِهِمْ
+  - كتابِها
+  - كتابهِما
+  - كتابهِنَّ
+- Note the small exception on the feminine singular.
