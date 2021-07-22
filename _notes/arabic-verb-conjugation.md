@@ -3,11 +3,18 @@ title: Arabic verb conjugation
 ---
 
 
-## Table of contents
-1. [Conjugation rules](#conjugation_rules){: .internal-link}
+## Summary
+1. Vowelled weak letters preceded by a fatha.
+2. Two sukuns next to each other.
+3. Weak letters before a dual feminine.
+4. Dhamma and kasrah.
+5. Golden rule.
+6. Doubled letters preceded by a sakin.
+7. Weak letters are lazy.
+8. Super ta.
+9. Waw in fa kalimah placeholder, template I, present tense.
 
-
-## Conjugation rules <a name="conjugation_rules"></a>
+## Conjugation rules
 
 These rules describe 'post-justified' rules, in that they have been created to best *explain* the irregular conjugations as found in the arabic language. They are *not* the rules that these irregular verb forms are conjugated in accordance to, and therefore may not always work.
 
