@@ -90,7 +90,7 @@ Similarly, if the ت is preceded by one of ط ظ ص ض then turn it into the cor
 
 ### Rule 9
 
-This applies when you have a و in the ف kalimah, e.g. وَجَدَ. It only applies in template 1, in the present tense. If the ع kalimah is a و, you drop it if the ع has a kasrah.
+This applies when you have a و in the ف kalimah, e.g. وَجَدَ. It only applies in template 1, in the present tense. If the fa kalimah is a و, you drop it if the ع has a kasrah.
 
 وَجَدَ - يَوْخِدُ - يَجِدُ
 
