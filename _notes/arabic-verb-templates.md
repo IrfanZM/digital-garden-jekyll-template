@@ -76,7 +76,7 @@ There are also a number common template 1 verbs, which contain 'weak' letters (�
 - كَانَ - he was
 - وَلِيَ - he was near, he was close, he was in charge
 
-These rules for conjugating verbs with weak letters apply to *all* templates, not just template 1. 
+These rules for conjugating verbs with weak letters apply to *all* templates, not just template 1.
 
 ## Template 2 <a name="template_2"></a>
 
@@ -156,6 +156,8 @@ This template is typically only used for colours and physical disabilities. The 
 
 Example verbs:
 - اِحْمَرَّ - he turned red
+
+When conjugating this verb, you would open up the double letter (as it occurs at the end) - for example اِحْمَرَرْتُ. More technically, it's only in the third person conjugations that rule 6 applies and the final two letters are doubled.
 
 ## Template 10 <a name="template_10"></a>
 

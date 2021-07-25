@@ -37,7 +37,7 @@ This is a summary of the basic grammatical concepts covered in year 1 of my stud
 - Questions can be asked by constructing the sentence in the usual way, and then placing either a هَلْ or a أ at the start of the sentence. Where the alif joins another alif, you should elide the first alif, e.g. آلقمر جميل؟. When the ل of the هَلْ joins onto ال, the first lam should take a kasrah to allow joining, e.g. هَلِ الْولد جديد.
 
 - There are three kinds of اسم:
-  - اسم خامد - these are isms which are not derived from anything, and nothing is derived from it, e.g., رَجُلٌ.
+  - اسم جامد - these are isms which are not derived from anything, and nothing is derived from it, e.g., رَجُلٌ.
   - اسم مصدر - these are isms which are not derived, but words can be derived from it, e.g., نَصْرٌ.
   - اسم مشتق - these are both derived, and other words can be derived from it, e.g., عالم.
 
